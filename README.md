@@ -1,6 +1,6 @@
 # Built to Sell Studio mini-site
 
-This is a single-page website intended for business verification (e.g., Revolut Pro) and traffic handoff to Etsy.
+This is a single-page website intended for business verification and traffic handoff to Etsy.
 
 ## Free hosting options
 
